@@ -21,7 +21,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter number of elements: ");
+        System.out.println("Enter number of elements : ");
         int n = scanner.nextInt();
         int[] arr = new int[n];
         System.out.println("Enter sorted elements:");
