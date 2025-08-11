@@ -11,7 +11,6 @@ public class HelloWorld {
 		System.out.println("Happy coding!");
 		System.out.println("This is a test for the Java program.");
 		System.out.println("Let's add some more lines to test the output.");
-		System.out.println("Testing complete. Goodbye!");
 			
 	}
 
